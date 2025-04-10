@@ -1,4 +1,4 @@
-![Groove Music: Music Streaming App](public/assets/banner.png)
+![Groove Music: Music Streaming App](banner.png)
 
 # Groove Music: A Music Streaming Application
 
